@@ -1,0 +1,3 @@
+documentation/p1&p2
+docker-compose.yaml // yml en la raiz
+config/odoo-conf // configuracion de nuestro odoo
